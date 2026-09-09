@@ -1,0 +1,3 @@
+[submodule "beginner/single-page-cv"]
+	path = beginner/single-page-cv
+	url = git@github.com:Michel-Rooney/single-page-cv.git
