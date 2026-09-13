@@ -1,3 +1,6 @@
 [submodule "beginner/single-page-cv"]
 	path = beginner/single-page-cv
 	url = git@github.com:Michel-Rooney/single-page-cv.git
+[submodule "beginner/basic-html-website"]
+	path = beginner/basic-html-website
+	url = https://github.com/Michel-Rooney/basic-html-website.git
